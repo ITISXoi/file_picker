@@ -510,6 +510,11 @@ react-google-drive-picker@^1.2.2:
   resolved "https://registry.npmjs.org/react-google-drive-picker/-/react-google-drive-picker-1.2.2.tgz#93b6ad36f76744bc8a235c7070adb9c6fb7c69f5"
   integrity sha512-x30mYkt9MIwPCgL+fyK75HZ8E6G5L/WGW0bfMG6kbD4NG2kmdlmV9oH5lPa6P6d46y9hj5Y3btAMrZd4JRRkSA==
 
+react-onedrive-filepicker@^0.1.3:
+  version "0.1.3"
+  resolved "https://registry.npmjs.org/react-onedrive-filepicker/-/react-onedrive-filepicker-0.1.3.tgz#452b6be94970182d47926bcf4cac45560aa5ea95"
+  integrity sha512-RX4RDBBLnbPWwFJ3KjH0nQmK7iONebbDkVAFZlPFZ4rXZJzwKjn7LfboYeP+wmhUyE/dM4y9TzMsdFtPNn0wUw==
+
 react@^19.0.0:
   version "19.0.0"
   resolved "https://registry.npmjs.org/react/-/react-19.0.0.tgz#6e1969251b9f108870aa4bff37a0ce9ddfaaabdd"
